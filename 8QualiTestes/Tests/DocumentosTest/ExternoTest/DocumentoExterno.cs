@@ -53,7 +53,7 @@ namespace _8QualiTestes.Testes.Documentos.Externo
             /*explorerPage.acessarTelaExplorer();
             explorerPage.clicarVisualizar("Produção", documento);
             explorerPage.clicarBaixar("Produção", documento);
-            explorerPage.clicarImprimir("Produção", documento);
+            explorerPage.clicarImprimir("Produção", documento);adasdasdasd
             */
 
            
